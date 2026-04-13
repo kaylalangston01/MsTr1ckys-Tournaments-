@@ -1,6 +1,6 @@
 {
 	"Name": "Spring Tourney Balancing ",
-	"Version": 1775067278,
+	"Version": 1776122121,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "Surv teams can choose between having 1 deli or 1 shoulder per surv team against high tier/M2/Multi-Power",
 	"Tiers": [
@@ -9,7 +9,6 @@
 			"SurvivorIndvPerkBans": [
 				"306",
 				"0",
-				"3",
 				"285",
 				"5",
 				"10",
@@ -30,7 +29,6 @@
 				"43",
 				"303",
 				"46",
-				"307",
 				"308",
 				"49",
 				"294",
